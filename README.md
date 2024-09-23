@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wintoo12
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning Random stuff about programming
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
